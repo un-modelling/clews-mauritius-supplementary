@@ -1,14 +1,14 @@
 # clews-mauritius-supplementary
 
-This repository is part of the [UN-DESA Modelling Tools](https://un-desa-modelling.github.io/).
+This repository is part of the [UN Modelling Tools](https://un-modelling.github.io/).
 
 This is the supplementary material used in this particular simulation.
 
 Please read through the
-[presentation](https://un-desa-modelling.github.io/clews-mauritius-presentation/).
+[presentation](https://un-modelling.github.io/clews-mauritius-presentation/).
 
 You can find a running version of the visualisation
-[here](http://un-desa-modelling.github.io/clews-mauritius-visualisation/).
+[here](https://un-modelling.github.io/tada?project=clews-mauritius).
 
 
 ## Climate, Land, Energy and Water Systems: a Demonstration Model for Mauritius
